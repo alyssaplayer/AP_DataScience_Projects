@@ -1,5 +1,5 @@
 # AP_DataScience_Projects
-This repository holds general-purpose Python scripts that focus on automation, image processing, and algorithm practice outside of my typical academic workflow. 
+This repository holds general-purpose Python scripts that focus on automation, image processing, and algorithm practice building on my typical academic workflow. 
 
 For my Programming Fundamentals final project, I conducted an end-to-end data analysis on an unseen dataset. I used scatter matrices to uncover correlations before testing three different regression models—Linear, Decision Tree, and Ridge—to determine the most accurate predictive approach.
 
